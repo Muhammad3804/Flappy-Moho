@@ -32,45 +32,23 @@ The main goal of this project was to understand:
 
 ## 🕹 How to Use the App
 
-### ▶️ Running the App (Development Mode)
+### 📥 Download APK from GitHub Release
 
-1. Clone the repository:
+1. Go to the **Releases** section of this repository:
+   [Releases](https://github.com/Muhammad3804/Flappy-Moho/releases)
 
-   ```bash
-   git clone https://github.com/yourusername/flappy-bird-android.git
-   ```
+2. Download the latest `.apk` file (e.g., `flappy-moho.apk`).
 
-2. Open the project in **Android Studio**.
+3. Transfer it to your Android device.
 
-3. Let Gradle sync completely.
-
-4. Connect a physical Android device
-   OR
-   Start an Android Emulator.
-
-5. Click **Run ▶️** in Android Studio.
-
----
-
-### 📦 Installing APK
-
-1. Locate the generated APK file:
+4. Enable installation from unknown sources if needed:
 
    ```
-   app/build/outputs/apk/debug/app-debug.apk
+   Settings → Security → Install unknown apps → Allow from this source
    ```
 
-2. Transfer it to an Android device.
+5. Tap the APK and install.
 
-3. Enable:
-
-   ```
-   Install from Unknown Sources
-   ```
-
-4. Tap the APK file and install.
-
----
 
 ### 🎮 Gameplay Instructions
 
@@ -80,4 +58,3 @@ The main goal of this project was to understand:
 * If you collide, the game ends.
 * Restart to try again and beat your high score.
 
----
