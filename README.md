@@ -1,4 +1,4 @@
-# 🐦 Flappy Bird – Android (Kotlin)
+# 🐦 Flappy Moho – Android (Kotlin)
 
 This project is a simple Flappy Bird-style game developed using Kotlin in Android Studio.
 
